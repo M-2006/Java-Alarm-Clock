@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Alarm-Clock:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Alarm_Clock_jar</output-path>
+    <root id="archive" name="Alarm-Clock.jar">
+      <element id="module-output" name="Alarm-Clock" />
+    </root>
+  </artifact>
+</component>
